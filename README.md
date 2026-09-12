@@ -1,4 +1,4 @@
-# WaveConvert — desktop build
+# WaveConvert - desktop build
 
 This folder turns the WaveConvert web app into a portable Windows app using
 Electron. I can't compile the actual `.exe` from here (this sandbox has no
